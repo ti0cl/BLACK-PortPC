@@ -1,8 +1,6 @@
-# BLACK-PortPC
+# BLACK Port PC
 
 BLACK Game Port PC
-
-**Versão 2.0.0 | Renderização a 60 FPS**
 
 BLACK Port PC é um projeto voltado para levar a experiência do clássico *BLACK* ao PC, buscando oferecer uma experiência de jogo mais fluida, com renderização a **60 quadros por segundo (FPS)**.
 
