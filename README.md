@@ -29,13 +29,14 @@ O objetivo do BLACK Port PC é proporcionar aos jogadores de PC uma maneira de a
 
 - **Projeto:** BLACK Port PC
 - **Versão atual:** 2.0.0
+- **Idioma:** Português Brasil
 - **Plataforma-alvo:** PC / Windows
 - **Renderização:** 60 FPS
 - **Gênero:** Tiro em primeira pessoa (FPS)
-- **Jogo original:** BLACK (2006)
+- **Jogo:** BLACK (2006)
 - **Desenvolvedora original:** Criterion Games
 - **Publicadora original:** Electronic Arts
 
 ---
 
-**BLACK Port PC — um clássico da ação, agora com a fluidez de 60 FPS.**
+**BLACK Port PC — um clássico dee ação dos consoles, agora no PC com fluidez a 60 FPS.**
