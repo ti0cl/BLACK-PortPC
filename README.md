@@ -2,7 +2,7 @@
 
 BLACK Game Port PC
 
-![Bem-Vindo][https://i.imgur.com/kBzHKaE.jpeg]
+<img src="[URL_da_Imagem](https://i.imgur.com/kBzHKaE.jpeg)" alt="BLACK Game Port PC">
 
 BLACK Port PC é um projeto voltado para levar a experiência do clássico *BLACK* ao PC, buscando oferecer uma experiência de jogo mais fluida, com renderização a **60 quadros por segundo (FPS)**.
 
